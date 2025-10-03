@@ -44,7 +44,7 @@ Dive into creating a cutting-edge web experience designed for Awwwards recogniti
 
 ```bash
 # 1. Clone the repo
-git clone
+git clone https://github.com/soumyajit-manna/spylt-inspired.git
 
 # 2. Install dependencies
 npm install
